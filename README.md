@@ -105,7 +105,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="80%" src="https://github-trophies.vercel.app/?username=Fayaal&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" />
+  <img width="80%" src="https://github-trophies.vercel.app/?username=Fayaal01&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" alt="Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
