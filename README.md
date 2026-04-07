@@ -56,24 +56,6 @@
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://linkedin.com/in/fayaal-paakeer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/fayaal-paakeer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="instagram" height="50" width="50" /></a>
-<a href="https://www.facebook.com/fayaal.fyl/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg" alt="facebook" height="50" width="50" /></a>
-<a href="https://dribbble.com/Fayaal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/dribbble.svg" alt="dribbble" height="50" width="50" /></a>
-</p>
-
-
 ---
 
 <h3 align="center"><b>📊GitHub Stats:</b></h3>
