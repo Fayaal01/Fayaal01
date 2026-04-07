@@ -11,27 +11,17 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fayaal&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Fayaal" /> </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Trending Technologies**
+---
 
-- 🧑‍🎓 I’m an Undergraduate at **OUSL**
+### 🧠 About Me
 
-- 💬 Ask me about **Java, C#,C++**
+- Building full-stack web & mobile apps with **React, Next.js, Angular, Spring Boot, .NET, Node.js**
+- Cross-platform mobile development with **Flutter**
+- Exploring **DevOps, Cloud (AWS, Azure), Docker & Kubernetes**
+- Learning **AI/ML, Deep Learning, NLP & Math for AI**
+- Goal: Craft intelligent, scalable systems that solve real-world problems
 
-- 📫 How to reach me **fayaalpaakeer.info@gmail.com**
-    
-- ⚡ Fun fact **Call me as FYL**
-
-</td>
-<td width="50%" align="center">
- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
-  
-  </td>
-</tr>
-</table>
+---
 
 
 <!--h1 without bottom border-->
