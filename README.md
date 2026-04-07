@@ -6,9 +6,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1EB5F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Full-Stack+Developer;AI/ML+%26+Tech+Enthusiastic;"></a>
 </p>
-
-
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+
+<p align="center">
+  <a href="https://https://fayaal01.github.io/my-portfolio//"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/fayaal-paakeer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fayaal_paakeer/"><img src="https://img.shields.io/badge/Intagram-%23C13584?logo=Instagram"/></a>
+  <a href="mailto:fayaalmpm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@fayaalpaakeer"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fayaal&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Fayaal" /> </p>
 
 ---
