@@ -15,7 +15,7 @@
   <a href="mailto:fayaalmpm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@fayaalpaakeer"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fayaal&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Fayaal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fayaal01&label=Profile%20views&color=770676&style=for-the-badge&logo=star" alt="Fayaal01" /> </p>
 
 ---
 
