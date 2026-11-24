@@ -57,26 +57,14 @@
 
 ---
 
-<h3 align="center"><b>📊GitHub Stats:</b></h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fayaal01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<br/>
-  <br></br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fayaal01&layout=compact&langs_count=8&theme=algolia"/>
-<br/>
-</td>
-<td width="50%" align="center">
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.shion.dev/api?username=Fayaal01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Fayaal01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fayaal01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- ![](https://github-readme-stats.vercel.app/api?username=Fayaal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fayaal01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </td>
-</tr>
-</table>
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <table align="center">
 
