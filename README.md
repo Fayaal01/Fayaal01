@@ -78,13 +78,14 @@
 
 </table>
 
-
+<p align="center">
 <a href="https://certdirectory.io/profile/fayaal-paakeer?utm_source=github&utm_medium=readme">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/fayaal-paakeer.svg?style=card&theme=dark">
     <img alt="Fayaal Paakeer on CertDirectory" src="https://certdirectory.io/badge/fayaal-paakeer.svg?style=card">
   </picture>
 </a>
+</p>
 
 
  <br/><br/><br>
