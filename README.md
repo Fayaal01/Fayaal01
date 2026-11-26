@@ -14,6 +14,7 @@
   <a href="https://www.instagram.com/fayaal_paakeer/"><img src="https://img.shields.io/badge/Intagram-%23C13584?logo=Instagram"/></a>
   <a href="mailto:fayaalmpm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://medium.com/@fayaalpaakeer"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Fayaal01&label=Profile+Views&color=ff69b4&style=flat-square"/>
 </p>
 
 ---
